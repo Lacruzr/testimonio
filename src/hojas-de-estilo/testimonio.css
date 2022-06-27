@@ -1,0 +1,25 @@
+.contenedor-testimonio {
+    display: flex;  
+    margin-top: 20px;
+    background-color: aquamarine;
+    margin: 20px 20px;
+}
+.contenedor-texto-testimonio{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 1.5;
+    
+}
+.texto-testimonio {
+    text-align: justify;
+    margin-top: 20px;
+    margin-top: 20px;
+}
+
+.nombre-testimonio{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
